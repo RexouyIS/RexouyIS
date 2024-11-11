@@ -1,5 +1,6 @@
-## Hi there 👋
+# About me
 
+I am building a mod of The **Binding of Isaac**， which try to help disables can play the game only use one hand.
 <!--
 **RexouyIS/RexouyIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
